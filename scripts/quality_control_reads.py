@@ -3,7 +3,7 @@ Performs some quality filtering on FASTQ reads.
 """
 
 import argparse
-from lib2to3.pytree import convert
+# from lib2to3.pytree import convert
 import numpy as np
 import pysam
 
